@@ -1,4 +1,5 @@
-# 
+# How to get onboard with Campus Chapter program
+
 * Check if your campus has a FOSS community already. It’s possible that your campus would have a currently active FOSS community. If your campus has that, it would be simple as talking to your campus representative (FOSS Pilot) about a membership.
 
 * If your campus doesn’t have a FOSS community already, then it’s time to start one. Talk with your campus management and learn necessary procedure on how to start a new club at your campus.
