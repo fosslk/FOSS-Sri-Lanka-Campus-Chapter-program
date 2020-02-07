@@ -1,0 +1,1 @@
+For all the students/undergraduates in the country who are following a Degree/HND/ND or any other course in a reputed university or institution and passionate in contributing and promoting free and open source software. 
