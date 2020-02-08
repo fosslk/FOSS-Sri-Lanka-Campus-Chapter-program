@@ -14,5 +14,5 @@
 
 * After three months of the incubation period, you’re now ready to hatch. Welcome to FOSS Sri Lanka as a campus pilot. You’re now ready to fly.
 
-* Follow the  [CPG](https://docs.google.com/document/d/1tRBoGIUNZK1gVnP6QX1kjq-K163-h8g8v-mV4SCccDI/edit#) 
+* Follow the  [CPG](https://github.com/fosslk/CPG) 
 
